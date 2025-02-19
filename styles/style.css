@@ -321,6 +321,7 @@ ol {
   line-height: 90%;
   text-overflow: ellipsis;
   white-space: nowrap;
+  line-clamp: 4;
   overflow: hidden;
 }
 
